@@ -18,6 +18,7 @@ Healthcare technology and operations executive in Richmond, Virginia, with about
 
 ### Writing
 My series **Healthcare, Measured** covers healthcare technology, operations, and leadership.
+- [What Makes a Movement Measure a Real Biomarker](https://danielsalzberg.com/articles/what-makes-a-movement-measure-a-real-biomarker/)
 - [Functional Testing Can Happen at Home](https://danielsalzberg.com/articles/functional-testing-at-home/)
 - [Movement Is the Vital Sign We Aren't Measuring](https://danielsalzberg.com/articles/movement-the-missing-vital-sign/)
 - [Healthcare's Next Decade Will Be Measured, Not Guessed](https://danielsalzberg.com/articles/future-of-healthcare-measured-not-guessed/)
@@ -31,4 +32,4 @@ My series **Healthcare, Measured** covers healthcare technology, operations, and
 
 ### Find me
 [Website](https://danielsalzberg.com) · [About](https://danielsalzberg.com/about/) · [LinkedIn](https://www.linkedin.com/in/daniel-salzberg) · [Medium](https://medium.com/@danielsalzberg) · [Substack](https://danielsalzberg.substack.com) · [Speaker Deck](https://speakerdeck.com/danielsalzberg) · [Blogger](https://danielsalzbergrichmond.blogspot.com) · [Quora](https://www.quora.com/profile/Daniel-Salzberg-1) · [YouTube](https://www.youtube.com/@danielsalzberg) · [X](https://x.com/danielsalzberg_) · [Facebook](https://www.facebook.com/profile.php?id=61596034569419) · [about.me](https://about.me/danielsalzberg) · [Crunchbase](https://www.crunchbase.com/person/daniel-salzberg-e50f) · [Gravatar](https://gravatar.com/dansalzberg)
- · [Bluesky](https://bsky.app/profile/danielsalzberg.com) · [Tumblr](https://www.tumblr.com/danielsalzberg) · [Pinterest](https://www.pinterest.com/danielsalzbergrichmond/) · [Issuu](https://issuu.com/danielsalzberg) · [Wellfound](https://wellfound.com/u/daniel-salzberg)
+ · [Bluesky](https://bsky.app/profile/danielsalzberg.com) · [Tumblr](https://www.tumblr.com/danielsalzberg) · [Pinterest](https://www.pinterest.com/danielsalzbergrichmond/) · [Issuu](https://issuu.com/danielsalzberg) · [Wellfound](https://wellfound.com/u/daniel-salzberg) · [DEV](https://dev.to/danielsalzberg) · [WordPress](https://danielsalzbergrichmond.wordpress.com/) · [Instagram](https://www.instagram.com/danielsalzberg_/) · [Threads](https://www.threads.com/@danielsalzberg_) · [Linktree](https://linktr.ee/danielsalzberg) · [Vimeo](https://vimeo.com/danielsalzberg) · [Scribd](https://www.scribd.com/user/1042502697/Daniel-Salzberg) · [Hashnode](https://hashnode.com/@danielsalzberg) · [Flickr](https://www.flickr.com/people/205140587@N03/) · [SlideShare](https://www.slideshare.net/DanielSalzberg) · [Carrd](https://danielsalzberg.carrd.co/) · [Google Site](https://sites.google.com/view/danielsalzberg)
